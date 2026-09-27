@@ -1,0 +1,10 @@
+# Python >= 3.10
+biopython>=1.81
+pyhmmer>=0.10
+mappy>=2.26          # minimap2 Python binding
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+matplotlib>=3.7
+joblib>=1.3
+tabulate>=0.9

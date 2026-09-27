@@ -1,0 +1,16 @@
+name: foterdet
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.11
+  - biopython
+  - pyhmmer
+  - mappy
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - joblib
+  - tabulate
+  - ncbi-datasets-cli     # only needed to download assemblies
+  - unzip
+  - wget
