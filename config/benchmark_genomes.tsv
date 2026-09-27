@@ -1,0 +1,14 @@
+# Nine strains from Salimi & Rahnama (Mobile DNA 2025), Table S1A.
+# FILL the accession column from Table S1A (exact assembly versions used in the paper),
+# then run scripts/download_genomes.sh config/benchmark_genomes.tsv genomes/benchmark
+# own_ref = name of this strain's sequence in data/reference/FoTeR_full_length_refs.fasta
+name	accession	own_ref	fasta
+MAFF727510	FILL_FROM_TABLE_S1A	MAFF727510	genomes/benchmark/MAFF727510.fna
+BRIP62122	FILL_FROM_TABLE_S1A	BRIP62122	genomes/benchmark/BRIP62122.fna
+GL1080	FILL_FROM_TABLE_S1A	GL1080	genomes/benchmark/GL1080.fna
+GL1315	FILL_FROM_TABLE_S1A	GL1315	genomes/benchmark/GL1315.fna
+GL1381	FILL_FROM_TABLE_S1A	GL1381	genomes/benchmark/GL1381.fna
+II5	FILL_FROM_TABLE_S1A	II5	genomes/benchmark/II5.fna
+Race3	FILL_FROM_TABLE_S1A	Race3	genomes/benchmark/Race3.fna
+Fo47	FILL_FROM_TABLE_S1A	Fo47	genomes/benchmark/Fo47.fna
+Fo5176	FILL_FROM_TABLE_S1A	Fo5176	genomes/benchmark/Fo5176.fna

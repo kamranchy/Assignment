@@ -1,0 +1,122 @@
+genome	scaffold	gt_start	gt_end	gt_status	pred_start	pred_end	pred_status	pred_status_rule	d_start	d_end	confidence	call	gt_full	pred_full
+SYN_BRIP62122	SYN_BRIP62122_chr7	132348	138626	full-length	132345	138632	full-length	full-length span, ORF disrupted	-3	6	1.0	FoTeR	True	True
+SYN_BRIP62122	SYN_BRIP62122_chr7	127	6405	full-length	121	6408	full-length	full-length span, ORF disrupted	-6	3	1.0	FoTeR	True	True
+SYN_BRIP62122	SYN_BRIP62122_chr4	121131	127409	full-length	121128	127415	full-length	full-length span, ORF disrupted	-3	6	1.0	FoTeR	True	True
+SYN_BRIP62122	SYN_BRIP62122_chr3	127	6405	full-length	121	6408	full-length	full-length span, ORF disrupted	-6	3	1.0	FoTeR	True	True
+SYN_BRIP62122	SYN_BRIP62122_chr1	131150	137428	full-length	131147	137434	full-length	full-length span, ORF disrupted	-3	6	1.0	FoTeR	True	True
+SYN_BRIP62122	SYN_BRIP62122_chr1	127	6405	full-length	121	6408	full-length	full-length	-6	3	1.0	FoTeR	True	True
+SYN_BRIP62122	SYN_BRIP62122_chr5	307	6585	full-length	452	6588	full-length	full-length	145	3	1.0	FoTeR	True	True
+SYN_BRIP62122	SYN_BRIP62122_chr7	126466	132311	truncated	126463	132311	truncated	full-length span, ORF disrupted	-3	0	1.0	FoTeR	False	False
+SYN_BRIP62122	SYN_BRIP62122_chr3	6448	11573	truncated	6448	11576	truncated	full-length span, ORF disrupted	0	3	1.0	FoTeR	False	False
+SYN_BRIP62122	SYN_BRIP62122_chr3	11610	15350	truncated	11610	15353	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_BRIP62122	SYN_BRIP62122_chr1	127711	131107	truncated	127585	131107	truncated (5')	truncated (5')	-126	0	1.0	FoTeR	False	False
+SYN_BRIP62122	SYN_BRIP62122_chr6	1	3139	truncated	2	2994	unresolved (runs into assembly end)	unresolved (runs into assembly end)	1	-145	1.0	FoTeR (telomere unresolved: assembly end incomplete)	False	False
+SYN_BRIP62122	SYN_BRIP62122_chr1	6448	7644	truncated	6448	7647	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_BRIP62122	SYN_BRIP62122_chr5	7507	8692	truncated	7507	8695	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_BRIP62122	SYN_BRIP62122_chr5	6622	7482	truncated	6622	7485	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_Fo47	SYN_Fo47_chr7	127697	132295	full-length	127694	132301	full-length	truncated (5')	-3	6	1.0	FoTeR	True	True
+SYN_Fo47	SYN_Fo47_chr7	127	4725	full-length	121	4728	full-length	truncated (5')	-6	3	1.0	FoTeR	True	True
+SYN_Fo47	SYN_Fo47_chr4	122118	126716	full-length	122115	126722	full-length	truncated (5')	-3	6	1.0	FoTeR	True	True
+SYN_Fo47	SYN_Fo47_chr3	127	4725	full-length	121	4728	full-length	truncated (5')	-6	3	1.0	FoTeR	True	True
+SYN_Fo47	SYN_Fo47_chr1	127682	132280	full-length	127679	132286	full-length	truncated (5')	-3	6	1.0	FoTeR	True	True
+SYN_Fo47	SYN_Fo47_chr1	127	4725	full-length	121	4728	full-length	truncated (5')	-6	3	1.0	FoTeR	True	True
+SYN_Fo47	SYN_Fo47_chr5	307	4905	full-length	309	4908	full-length	truncated (5')	2	3	1.0	FoTeR	True	True
+SYN_Fo47	SYN_Fo47_chr7	124786	127672	truncated	124783	127672	truncated (5')	truncated (5')	-3	0	1.0	FoTeR	False	False
+SYN_Fo47	SYN_Fo47_chr1	4750	7603	truncated	4750	7606	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_Fo47	SYN_Fo47_chr6	1	2299	truncated	1	2299	unresolved (runs into assembly end)	unresolved (runs into assembly end)	0	0	1.0	FoTeR (telomere unresolved: assembly end incomplete)	False	False
+SYN_Fo47	SYN_Fo47_chr5	4942	6966	truncated	4942	6969	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_Fo47	SYN_Fo47_chr4	121119	122075	truncated	121116	122075	truncated (5')	truncated (5')	-3	0	1.0	FoTeR	False	False
+SYN_Fo5176	SYN_Fo5176_chr7	130093	134925	full-length	130090	134688	full-length	full-length span, ORF disrupted	-3	-237	1.0	FoTeR	True	True
+SYN_Fo5176	SYN_Fo5176_chr7	127	4959	full-length	364	4962	full-length	full-length span, ORF disrupted	237	3	1.0	FoTeR	True	True
+SYN_Fo5176	SYN_Fo5176_chr5	307	5139	full-length	544	5142	full-length	full-length	237	3	1.0	FoTeR	True	True
+SYN_Fo5176	SYN_Fo5176_chr4	121143	125975	full-length	121140	125738	full-length	full-length	-3	-237	1.0	FoTeR	True	True
+SYN_Fo5176	SYN_Fo5176_chr3	127	4959	full-length	364	4962	full-length	full-length	237	3	1.0	FoTeR	True	True
+SYN_Fo5176	SYN_Fo5176_chr1	129039	133871	full-length	129036	133634	full-length	full-length span, ORF disrupted	-3	-237	1.0	FoTeR	True	True
+SYN_Fo5176	SYN_Fo5176_chr1	127	4959	full-length	364	4962	full-length	full-length span, ORF disrupted	237	3	1.0	FoTeR	True	True
+SYN_Fo5176	SYN_Fo5176_chr3	5002	9256	truncated	5018	9259	truncated (5')	truncated (5')	16	3	1.0	FoTeR	False	False
+SYN_Fo5176	SYN_Fo5176_chr7	5002	7569	truncated	5002	7572	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_Fo5176	SYN_Fo5176_chr7	127624	130050	truncated	127621	130050	truncated (5')	truncated (5')	-3	0	1.0	FoTeR	False	False
+SYN_Fo5176	SYN_Fo5176_chr3	9299	11678	truncated	9299	11681	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_Fo5176	SYN_Fo5176_chr1	4996	7307	truncated	4996	7310	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_Fo5176	SYN_Fo5176_chr6	1	2416	truncated	1	2179	unresolved (runs into assembly end)	unresolved (runs into assembly end)	0	-237	1.0	FoTeR (telomere unresolved: assembly end incomplete)	False	False
+SYN_Fo5176	SYN_Fo5176_chr1	7350	8972	truncated	7350	8975	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_GL1080	SYN_GL1080_chr5	307	5203	full-length	808	5206	full-length	full-length	501	3	1.0	FoTeR	True	True
+SYN_GL1080	SYN_GL1080_chr7	128089	132985	full-length	128086	132460	full-length	full-length	-3	-525	1.0	FoTeR	True	True
+SYN_GL1080	SYN_GL1080_chr7	127	5023	full-length	652	5026	full-length	full-length	525	3	1.0	FoTeR	True	True
+SYN_GL1080	SYN_GL1080_chr4	123717	128613	full-length	123714	128088	full-length	full-length	-3	-525	1.0	FoTeR	True	True
+SYN_GL1080	SYN_GL1080_chr3	127	5023	full-length	652	5026	full-length	full-length span, ORF disrupted	525	3	1.0	FoTeR	True	True
+SYN_GL1080	SYN_GL1080_chr1	125072	129968	full-length	125069	129443	full-length	full-length	-3	-525	1.0	FoTeR	True	True
+SYN_GL1080	SYN_GL1080_chr1	127	5023	full-length	652	5026	full-length	full-length span, ORF disrupted	525	3	1.0	FoTeR	True	True
+SYN_GL1080	SYN_GL1080_chr7	125078	128046	truncated	125086	128046	truncated (5')	truncated (5')	8	0	1.0	FoTeR	False	False
+SYN_GL1080	SYN_GL1080_chr4	121131	123674	truncated	121128	123674	truncated (5')	truncated (5')	-3	0	1.0	FoTeR	False	False
+SYN_GL1080	SYN_GL1080_chr5	5228	7696	truncated	5228	7699	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_GL1080	SYN_GL1080_chr6	1	2448	truncated	1	1923	unresolved (runs into assembly end)	unresolved (runs into assembly end)	0	-525	1.0	FoTeR (telomere unresolved: assembly end incomplete)	False	False
+SYN_GL1080	SYN_GL1080_chr5	7745	8898	truncated	7745	8901	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_GL1315	SYN_GL1315_chr7	124649	129104	full-length	124646	128986	full-length	truncated (5')	-3	-118	1.0	FoTeR	True	True
+SYN_GL1315	SYN_GL1315_chr7	127	4582	full-length	245	4585	full-length	truncated (5')	118	3	1.0	FoTeR	True	True
+SYN_GL1315	SYN_GL1315_chr5	307	4762	full-length	425	4765	full-length	truncated (5')	118	3	1.0	FoTeR	True	True
+SYN_GL1315	SYN_GL1315_chr4	122465	126920	full-length	122462	126802	full-length	truncated (5')	-3	-118	1.0	FoTeR	True	True
+SYN_GL1315	SYN_GL1315_chr3	127	4582	full-length	245	4585	full-length	truncated (5')	118	3	1.0	FoTeR	True	True
+SYN_GL1315	SYN_GL1315_chr1	129764	134219	full-length	129761	134101	full-length	truncated (5')	-3	-118	1.0	FoTeR	True	True
+SYN_GL1315	SYN_GL1315_chr1	127	4582	full-length	245	4585	full-length	truncated (5')	118	3	1.0	FoTeR	True	True
+SYN_GL1315	SYN_GL1315_chr5	7279	10094	truncated	7279	10097	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_GL1315	SYN_GL1315_chr5	4787	7230	truncated	4787	7233	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_GL1315	SYN_GL1315_chr1	5508	7726	truncated	5508	7729	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_GL1315	SYN_GL1315_chr6	1	2228	truncated	1	2110	unresolved (runs into assembly end)	unresolved (runs into assembly end)	0	-118	1.0	FoTeR (telomere unresolved: assembly end incomplete)	False	False
+SYN_GL1315	SYN_GL1315_chr1	127787	129733	truncated	127784	129733	truncated (5')	truncated (5')	-3	0	1.0	FoTeR	False	False
+SYN_GL1315	SYN_GL1315_chr4	121125	122422	truncated	121122	122422	truncated (5')	truncated (5')	-3	0	1.0	FoTeR	False	False
+SYN_GL1315	SYN_GL1315_chr3	4619	5784	truncated	4619	5787	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_GL1315	SYN_GL1315_chr1	4619	5483	truncated	4619	5486	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_GL1381	SYN_GL1381_chr7	129926	135903	full-length	129923	135951	full-length	full-length	-3	48	1.0	FoTeR	True	True
+SYN_GL1381	SYN_GL1381_chr7	127	6104	full-length	79	6107	full-length	full-length span, ORF disrupted	-48	3	1.0	FoTeR	True	True
+SYN_GL1381	SYN_GL1381_chr5	307	6284	full-length	162	6287	full-length	full-length span, ORF disrupted	-145	3	1.0	FoTeR	True	True
+SYN_GL1381	SYN_GL1381_chr4	121143	127120	full-length	121140	127168	full-length	full-length span, ORF disrupted	-3	48	1.0	FoTeR	True	True
+SYN_GL1381	SYN_GL1381_chr3	127	6104	full-length	79	6107	full-length	full-length span, ORF disrupted	-48	3	1.0	FoTeR	True	True
+SYN_GL1381	SYN_GL1381_chr1	126147	132124	full-length	126144	132172	full-length	full-length	-3	48	1.0	FoTeR	True	True
+SYN_GL1381	SYN_GL1381_chr1	127	6104	full-length	79	6107	full-length	full-length	-48	3	1.0	FoTeR	True	True
+SYN_GL1381	SYN_GL1381_chr7	126177	129889	truncated	126174	129889	truncated (5')	truncated (5')	-3	0	1.0	FoTeR	False	False
+SYN_GL1381	SYN_GL1381_chr3	6147	9728	truncated	6147	9731	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_GL1381	SYN_GL1381_chr6	1	2989	truncated	1	3135	unresolved (runs into assembly end)	unresolved (runs into assembly end)	0	146	1.0	FoTeR (telomere unresolved: assembly end incomplete)	False	False
+SYN_GL1381	SYN_GL1381_chr3	9777	11655	truncated	9777	11658	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_II5	SYN_II5_chr7	130241	137525	full-length	130238	134762	full-length	full-length	-3	-2763	1.0	FoTeR	True	True
+SYN_II5	SYN_II5_chr7	127	7411	full-length	2890	7414	full-length	full-length	2763	3	1.0	FoTeR	True	True
+SYN_II5	SYN_II5_chr5	7634	14459	truncated	9938	14462	full-length	full-length	2304	3	1.0	FoTeR	False	True
+SYN_II5	SYN_II5_chr5	307	7591	full-length	3070	7594	full-length	full-length span, ORF disrupted	2763	3	1.0	FoTeR	True	True
+SYN_II5	SYN_II5_chr4	121143	128427	full-length	121140	125664	full-length	full-length span, ORF disrupted	-3	-2763	1.0	FoTeR	True	True
+SYN_II5	SYN_II5_chr3	127	7411	full-length	2890	7414	full-length	full-length	2763	3	1.0	FoTeR	True	True
+SYN_II5	SYN_II5_chr1	133920	141204	full-length	133917	138441	full-length	full-length	-3	-2763	1.0	FoTeR	True	True
+SYN_II5	SYN_II5_chr1	127	7411	full-length	2890	7414	full-length	full-length	2763	3	1.0	FoTeR	True	True
+SYN_II5	SYN_II5_chr1	7436	10870	truncated	7436	10873	full-length	truncated (5')	0	3	1.0	FoTeR	False	True
+SYN_II5	SYN_II5_chr3	7442	10842	truncated	7442	10845	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_II5	SYN_II5_chr7	7442	10186	truncated	7442	10189	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_II5	SYN_II5_chr1	132322	133877	truncated	132319	133824	truncated (5'+3')	truncated (5'+3')	-3	-53	1.0	FoTeR	False	False
+SYN_II5	SYN_II5_chr1	10907	12273	truncated	10958	12276	truncated (5')	truncated (5')	51	3	1.0	FoTeR	False	False
+SYN_II5	SYN_II5_chr5	14484	15505	truncated	14484	15508	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_II5	SYN_II5_chr6	1	3642	truncated	1	879	unresolved (runs into assembly end)	unresolved (runs into assembly end)	0	-2763	1.0	FoTeR (telomere unresolved: assembly end incomplete)	False	False
+SYN_MAFF727510	SYN_MAFF727510_chr7	135383	140993	full-length	135380	140338	full-length	full-length span, ORF disrupted	-3	-655	1.0	FoTeR	True	True
+SYN_MAFF727510	SYN_MAFF727510_chr7	127	5737	full-length	782	5740	full-length	full-length span, ORF disrupted	655	3	1.0	FoTeR	True	True
+SYN_MAFF727510	SYN_MAFF727510_chr5	307	5917	full-length	962	5920	full-length	full-length	655	3	1.0	FoTeR	True	True
+SYN_MAFF727510	SYN_MAFF727510_chr4	123916	129526	full-length	123913	128871	full-length	full-length	-3	-655	1.0	FoTeR	True	True
+SYN_MAFF727510	SYN_MAFF727510_chr3	127	5737	full-length	782	5740	full-length	full-length span, ORF disrupted	655	3	1.0	FoTeR	True	True
+SYN_MAFF727510	SYN_MAFF727510_chr1	130466	136076	full-length	130463	135421	full-length	full-length	-3	-655	1.0	FoTeR	True	True
+SYN_MAFF727510	SYN_MAFF727510_chr1	127	5737	full-length	782	5740	full-length	full-length	655	3	1.0	FoTeR	True	True
+SYN_MAFF727510	SYN_MAFF727510_chr1	5786	10387	truncated	5786	10390	full-length	full-length span, ORF disrupted	0	3	1.0	FoTeR	False	True
+SYN_MAFF727510	SYN_MAFF727510_chr7	9898	14322	truncated	9954	14325	full-length	full-length	56	3	1.0	FoTeR	False	True
+SYN_MAFF727510	SYN_MAFF727510_chr7	5780	9855	truncated	5780	9858	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_MAFF727510	SYN_MAFF727510_chr4	121119	123891	truncated	121116	123891	truncated (5')	truncated (5')	-3	0	1.0	FoTeR	False	False
+SYN_MAFF727510	SYN_MAFF727510_chr6	1	2805	truncated	1	2150	unresolved (runs into assembly end)	unresolved (runs into assembly end)	0	-655	1.0	FoTeR (telomere unresolved: assembly end incomplete)	False	False
+SYN_MAFF727510	SYN_MAFF727510_chr7	134377	135352	truncated	134374	135352	truncated (5')	truncated (5')	-3	0	1.0	FoTeR	False	False
+SYN_Race3	SYN_Race3_chr7	125844	130134	full-length	125841	130140	truncated (5')	truncated (5')	-3	6	1.0	FoTeR	True	False
+SYN_Race3	SYN_Race3_chr7	127	4417	full-length	121	4420	truncated (5')	truncated (5')	-6	3	1.0	FoTeR	True	False
+SYN_Race3	SYN_Race3_chr4	121131	125421	full-length	121128	125427	truncated (5')	truncated (5')	-3	6	1.0	FoTeR	True	False
+SYN_Race3	SYN_Race3_chr3	127	4417	full-length	121	4420	truncated (5')	truncated (5')	-6	3	1.0	FoTeR	True	False
+SYN_Race3	SYN_Race3_chr1	128432	132722	full-length	128429	132728	full-length	truncated (5')	-3	6	1.0	FoTeR	True	True
+SYN_Race3	SYN_Race3_chr1	127	4417	full-length	121	4420	truncated (5')	truncated (5')	-6	3	1.0	FoTeR	True	False
+SYN_Race3	SYN_Race3_chr5	307	4597	full-length	529	4600	truncated (5')	truncated (5')	222	3	1.0	FoTeR	True	False
+SYN_Race3	SYN_Race3_chr3	5642	8487	truncated	5642	8490	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_Race3	SYN_Race3_chr1	125783	128389	truncated	125780	128389	truncated (5')	truncated (5')	-3	0	1.0	FoTeR	False	False
+SYN_Race3	SYN_Race3_chr6	1	2145	truncated	1	1946	unresolved (runs into assembly end)	unresolved (runs into assembly end)	0	-199	1.0	FoTeR (telomere unresolved: assembly end incomplete)	False	False
+SYN_Race3	SYN_Race3_chr7	4454	5795	truncated	4454	5798	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_Race3	SYN_Race3_chr1	4460	5698	truncated	4460	5701	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_Race3	SYN_Race3_chr3	4454	5599	truncated	4454	5602	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False
+SYN_Race3	SYN_Race3_chr5	4640	5615	truncated	4640	5618	truncated (5')	truncated (5')	0	3	1.0	FoTeR	False	False

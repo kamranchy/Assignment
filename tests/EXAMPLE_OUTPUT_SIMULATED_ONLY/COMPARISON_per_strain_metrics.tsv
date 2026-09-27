@@ -1,0 +1,11 @@
+genome	published	recovered_TP	missed_FN	additional_FP	precision	recall	F1
+SYN_BRIP62122	15	15	0	0	1.0	1.0	1.0
+SYN_Fo47	12	12	0	0	1.0	1.0	1.0
+SYN_Fo5176	14	14	0	0	1.0	1.0	1.0
+SYN_GL1080	12	12	0	0	1.0	1.0	1.0
+SYN_GL1315	15	15	0	0	1.0	1.0	1.0
+SYN_GL1381	11	11	0	0	1.0	1.0	1.0
+SYN_II5	15	15	0	0	1.0	1.0	1.0
+SYN_MAFF727510	13	13	0	0	1.0	1.0	1.0
+SYN_Race3	14	14	0	0	1.0	1.0	1.0
+ALL (micro)	121	121	0	0	1.0	1.0	1.0

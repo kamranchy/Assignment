@@ -1,0 +1,10 @@
+# Eight new assemblies (assignment Part 4). Never used for training, thresholds or design decisions.
+name	accession	fasta
+GCA_050916195.1	GCA_050916195.1	genomes/new/GCA_050916195.1.fna
+GCA_009602625.1	GCA_009602625.1	genomes/new/GCA_009602625.1.fna
+GCA_034642005.1	GCA_034642005.1	genomes/new/GCA_034642005.1.fna
+GCA_034641985.1	GCA_034641985.1	genomes/new/GCA_034641985.1.fna
+GCA_014843555.1	GCA_014843555.1	genomes/new/GCA_014843555.1.fna
+GCA_009602635.1	GCA_009602635.1	genomes/new/GCA_009602635.1.fna
+GCA_016952355.1	GCA_016952355.1	genomes/new/GCA_016952355.1.fna
+GCA_900073075.1	GCA_900073075.1	genomes/new/GCA_900073075.1.fna

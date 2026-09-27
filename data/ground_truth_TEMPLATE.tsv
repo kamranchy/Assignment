@@ -1,0 +1,8 @@
+# Published FoTeR copies transcribed from Table S5 of Salimi & Rahnama (2025).
+# One row per element. Coordinates 1-based inclusive, on the scaffold names of the
+# downloaded NCBI assembly. status: full-length | truncated
+# If an element lies on a chromosome end that the authors extended with PacBio reads
+# (not in the public assembly), still list it and set in_public_assembly=no:
+# it is then counted as a false negative with reason "scaffold not in public assembly".
+genome	scaffold	start	end	strand	status	in_public_assembly
+EXAMPLE_Fo47	EXAMPLE_SCAFFOLD_NAME	1	4599	+	full-length	yes

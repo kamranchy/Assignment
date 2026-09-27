@@ -1,0 +1,11 @@
+{
+  "micro_precision": 1.0,
+  "micro_recall": 1.0,
+  "micro_F1": 1.0,
+  "median_abs_start_err_bp": 3.0,
+  "median_abs_end_err_bp": 3.0,
+  "frac_boundaries_within_50bp": 0.5785123966942148,
+  "full_vs_truncated_accuracy_learned": 0.9173553719008265,
+  "full_vs_truncated_accuracy_rule": 0.7851239669421488,
+  "n_pred_unresolved_among_TP": 9
+}
